@@ -9,7 +9,7 @@
     "html": ["index.html"],
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["https://blog.lateral.io/*"]
+    "matches": ["https://spotify.com/*"]
   }]
  
 }
