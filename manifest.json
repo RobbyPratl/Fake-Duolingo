@@ -6,8 +6,6 @@
   "description": "Makes Spotify look like Duolingo in tab bar.",
  
   "content_scripts": [{
-    "html": ["index.html"],
-    "css": ["styles.css"],
     "js": ["content.js"],
     "matches": ["https://spotify.com/*"]
   }]
